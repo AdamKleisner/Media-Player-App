@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KleisnerAdam_CE02</string>
+    <string name="repeat_checkbox">Repeat</string>
+    <string name="shuffle_checkbox">Shuffle</string>
+</resources>
